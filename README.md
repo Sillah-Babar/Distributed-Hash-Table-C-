@@ -59,3 +59,15 @@ search query for a data with H(key) = 12 is originated at node 28.
 
 
 ![search-2](https://user-images.githubusercontent.com/90323797/189930876-6aacbf09-98d6-44ef-9c69-57b2742e8bfa.jpg)
+
+## Running the Code on Eclipse IDE:
+
+Make use of IDE such as Eclipse or visual Studio for this project and keep the files in the main directory of that project.
+
+Download the Boost C++ Library used in this project from the following site,
+* `https://www.boost.org/`
+
+Include the library in your project structure. 
+
+How to Import or Add Jar libraries to Eclipse:
+* `https://youtu.be/zWTzZ4sNAFw`
